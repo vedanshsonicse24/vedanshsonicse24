@@ -1,49 +1,60 @@
-# 👋 Hey, I'm Vedansh Soni
+ <!-- ═══════════════════════════════════════════════ -->
+<!--                 HERO SECTION                   -->
+<!-- ═══════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%7C+CSE+'28;Developer+%7C+Designer+%7C+Problem+Solver;Exploring+AI%2C+Web+Development+%26+UI%2FUX;Turning+Ideas+Into+Digital+Experiences" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:312E81,100:0EA5E9&text=VEDANSH%20SONI&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Designer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%7C+CSE+'28;Building+Ideas+Into+Digital+Experiences;Exploring+AI%2C+Web+Development+%26+UI%2FUX;Designing.+Developing.+Evolving." alt="Typing animation" />
+
+<br/>
 
 ### Building technology that feels a little more human.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vedansh.20)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedansh.sonicse24@ssipmt.com)
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vedanshsonicse24&style=flat-square&color=blueviolet)
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_SLUG">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:vedansh.sonicse24@ssipmt.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=vedanshsonicse24&style=flat-square&color=6366F1&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<!-- ═══════════════════════════════════════════════ -->
+<!--                  ABOUT ME                      -->
+<!-- ═══════════════════════════════════════════════ -->
 
-```javascript
-const vedansh = {
-    name: "Vedansh Soni",
-    education: "Computer Science & Engineering | CSE '28",
-    location: "India 🇮🇳",
-    interests: [
-        "Full Stack Development",
-        "Artificial Intelligence",
-        "UI/UX Design",
-        "Creative Development",
-        "Problem Solving"
-    ],
-    currentlyBuilding: ["NIRIKSH", "AI-powered projects"],
-    philosophy: "Learn. Build. Experiment. Evolve.",
-    funFact: "I love turning complex ideas into meaningful experiences."
-};
-```
+## 👨‍💻 About Me
 
-I'm a Computer Science student passionate about the intersection of technology, creativity, and design.
+<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I enjoy building digital products, experimenting with AI, exploring user experiences, and transforming ideas into functional applications.
+Hey! I'm **Vedansh Soni**, a Computer Science and Engineering student who enjoys exploring the intersection of technology, creativity, and design.
 
-Outside coding, I'm involved in Toastmasters, leadership, and creative communication.
+- 🎓 CSE Student — Class of 2028
+- 🌏 Based in India 🇮🇳
+- 💻 Interested in Full Stack Development & AI
+- 🎨 Exploring UI/UX and creative development
+- 🧠 Practicing Data Structures & Algorithms
+- 🚀 Building projects that solve meaningful problems
+- 🎤 Toastmasters | Leadership | Communication
 
-**My goal:** Aim to build something unique and perfect — one iteration at a time.
+<br clear="right"/>
+
+> *"Work in progress. Always evolving."*
 
 ---
 
@@ -51,17 +62,25 @@ Outside coding, I'm involved in Toastmasters, leadership, and creative communica
 
 <div align="center">
 
-### Languages
+### 💻 Programming Languages
+
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
 
-### Development
+### 🌐 Web Development
+
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,django,fastapi,tailwind" />
 
-### Database & Tools
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,git,github,vscode" />
+### 🗄️ Database & Backend
 
-### Design & Creative
-<img src="https://skillicons.dev/icons?i=figma,blender,unity" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,firebase,neo4j" />
+
+### 🛠️ Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+
+### 🎨 Design & Creative Tools
+
+<img src="https://skillicons.dev/icons?i=figma,blender,unity,canva" />
 
 </div>
 
@@ -71,44 +90,17 @@ Outside coding, I'm involved in Toastmasters, leadership, and creative communica
 
 <div align="center">
 
-<!-- Overall GitHub statistics -->
+### Overall Statistics
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vedanshsonicse24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-<!-- Most used languages -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedanshsonicse24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br/>
+<br/><br/>
 
-<!-- Contribution streak -->
-<img width="70%" src="https://streak-stats.demolab.com?user=vedanshsonicse24&theme=tokyonight&hide_border=true" />
+### 🔥 Contribution Streak
 
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vedanshsonicse24&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=vedanshsonicse24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
-### 📦 Repository Overview
-
-<div align="center">
-
-![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvedanshsonicse24&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&color=blue)
-
-![Followers](https://img.shields.io/github/followers/vedanshsonicse24?style=for-the-badge&label=Followers&color=purple)
-
-![Stars](https://img.shields.io/github/stars/vedanshsonicse24?style=for-the-badge&label=Total%20Stars&color=yellow)
+<img width="70%" src="https://streak-stats.demolab.com?user=vedanshsonicse24&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" />
 
 </div>
 
@@ -118,20 +110,37 @@ Outside coding, I'm involved in Toastmasters, leadership, and creative communica
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌍 NASA.io
 
 **AI-Powered Environmental Intelligence**
 
-A platform integrating NASA satellite data, wildfire monitoring, air quality insights, weather intelligence, geospatial visualization, and an AI assistant.
+An environmental monitoring platform integrating NASA satellite datasets, wildfire monitoring, air quality analysis, weather intelligence, interactive geospatial visualization, and an AI-powered assistant.
 
-**Stack:** React · NASA APIs · Firebase · AI
+**Tech Stack**
 
-[Explore Project ↗](https://nasa-io-eight.vercel.app/)
+`React` `NASA APIs` `Firebase` `AI`
+
+[🌐 Live Demo](https://nasa-io-eight.vercel.app/)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+### 🧠 NIRIKSH
+
+**AI-Powered Criminal Network Analysis System**
+
+An intelligent network analysis platform designed to extract entities, identify relationships, and visualize criminal networks using AI, NLP, and graph analytics.
+
+**Tech Stack**
+
+`React` `FastAPI` `PostgreSQL` `Neo4j` `NLP` `ML`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### ⚡ TaskVerse
 
@@ -139,35 +148,20 @@ A platform integrating NASA satellite data, wildfire monitoring, air quality ins
 
 A productivity platform featuring workspaces, graph-based task management, authentication, and interactive task visualization.
 
-**Stack:** Django · SQLite · JavaScript · JWT
+**Tech Stack**
 
-[Explore Repository ↗](YOUR_TASKVERSE_REPOSITORY_URL)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧠 AI Criminal Network Analysis
-
-**AI-Powered Graph Intelligence**
-
-An ongoing project exploring entity extraction, relationship detection, knowledge graphs, and intelligent network analysis.
-
-**Stack:** React · FastAPI · PostgreSQL · Neo4j · NLP
-
-[Explore Repository ↗](YOUR_CRIMINAL_NETWORK_REPOSITORY_URL)
+`Django` `SQLite` `JavaScript` `JWT`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔭 NIRIKSH
+### 💡 More Coming Soon
 
-**Currently Exploring**
+**Ideas in Progress**
 
-An ongoing development project where I experiment with ideas, engineering, and building meaningful digital solutions.
+Exploring new possibilities across artificial intelligence, software engineering, creative development, and user experience.
 
-[Explore Repository ↗](YOUR_NIRIKSH_REPOSITORY_URL)
+**Currently:** Learning · Experimenting · Building
 
 </td>
 </tr>
@@ -175,11 +169,11 @@ An ongoing development project where I experiment with ideas, engineering, and b
 
 ---
 
-## 🐍 Contribution Journey
+## 🐍 My Contribution Journey
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vedanshsonicse24/vedanshsonicse24/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/vedanshsonicse24/vedanshsonicse24/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
 
 </div>
 
@@ -189,27 +183,27 @@ An ongoing development project where I experiment with ideas, engineering, and b
 
 <div align="center">
 
-I'm always interested in connecting with developers, designers, creators, and people who love building things.
+### Have an idea? Let's build something meaningful.
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_SLUG">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://instagram.com/vedansh.20">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://www.leetcode.com/vedansh_20">
-<img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode" />
+<a href="https://leetcode.com/vedansh_20">
+<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 <a href="https://www.hackerrank.com/@vedansh_sonicse1">
-<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank" />
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### 💡 "Work in progress. Always evolving."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:312E81,100:0F172A&height=120&section=footer" width="100%" />
 
-*Thanks for visiting my GitHub profile!*
+**Thanks for stopping by! ⭐**
 
-⭐ If you find something interesting, consider starring the repository.
+*Learn. Build. Experiment. Evolve.*
 
 </div>
