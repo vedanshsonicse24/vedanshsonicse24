@@ -1,5 +1,5 @@
- <!-- ═══════════════════════════════════════════════ -->
-<!--                 HERO SECTION                   -->
+<!-- ═══════════════════════════════════════════════ -->
+<!--                    HERO                        -->
 <!-- ═══════════════════════════════════════════════ -->
 
 <div align="center">
@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%7C+CSE+'28;Building+Ideas+Into+Digital+Experiences;Exploring+AI%2C+Web+Development+%26+UI%2FUX;Designing.+Developing.+Evolving." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%7C+CSE+'28;Building+Ideas+Into+Digital+Experiences;Exploring+Development+%26+Creative+Technology;Designing.+Developing.+Evolving." alt="Typing animation" />
 
 <br/>
 
@@ -34,27 +34,23 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                  ABOUT ME                      -->
-<!-- ═══════════════════════════════════════════════ -->
-
 ## 👨‍💻 About Me
 
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Hey! I'm **Vedansh Soni**, a Computer Science and Engineering student who enjoys exploring the intersection of technology, creativity, and design.
+Hey! I'm **Vedansh Soni**, a Computer Science and Engineering student passionate about technology, creativity, and design.
 
 - 🎓 CSE Student — Class of 2028
 - 🌏 Based in India 🇮🇳
-- 💻 Interested in Full Stack Development & AI
-- 🎨 Exploring UI/UX and creative development
+- 💻 Exploring software and web development
+- 🎨 Interested in UI/UX and creative development
 - 🧠 Practicing Data Structures & Algorithms
-- 🚀 Building projects that solve meaningful problems
+- 🚀 Building projects and experimenting with ideas
 - 🎤 Toastmasters | Leadership | Communication
 
 <br clear="right"/>
 
-> *"Work in progress. Always evolving."*
+> *Work in progress. Always evolving.*
 
 ---
 
@@ -64,23 +60,23 @@ Hey! I'm **Vedansh Soni**, a Computer Science and Engineering student who enjoys
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 
-### 🌐 Web Development
+### 🌐 Development
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,django,fastapi,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,django" />
 
-### 🗄️ Database & Backend
+### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,firebase,neo4j" />
+<img src="https://skillicons.dev/icons?i=sqlite" />
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=vscode,github" />
 
-### 🎨 Design & Creative Tools
+### 🎨 Creative & Design
 
-<img src="https://skillicons.dev/icons?i=figma,blender,unity,canva" />
+<img src="https://skillicons.dev/icons?i=blender,figma,unity" />
 
 </div>
 
@@ -135,10 +131,11 @@ An intelligent network analysis platform designed to extract entities, identify 
 
 **Tech Stack**
 
-`React` `FastAPI` `PostgreSQL` `Neo4j` `NLP` `ML`
+`React` `Python` `AI` `Graph Analytics`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -150,7 +147,7 @@ A productivity platform featuring workspaces, graph-based task management, authe
 
 **Tech Stack**
 
-`Django` `SQLite` `JavaScript` `JWT`
+`Django` `SQLite` `JavaScript`
 
 </td>
 <td width="50%" valign="top">
@@ -159,7 +156,7 @@ A productivity platform featuring workspaces, graph-based task management, authe
 
 **Ideas in Progress**
 
-Exploring new possibilities across artificial intelligence, software engineering, creative development, and user experience.
+Exploring new possibilities across software development, creative technology, and user experience.
 
 **Currently:** Learning · Experimenting · Building
 
